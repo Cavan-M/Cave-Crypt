@@ -1,0 +1,8 @@
+Dependencies:
+
+shellescape
+Naked
+PyYAML
+pycryptodome
+Tkinter
+
