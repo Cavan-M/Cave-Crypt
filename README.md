@@ -1,5 +1,5 @@
 # Cave-Crypt
-Lightweight text file encryption
+Lightweight text file encryption written in python
 
 # Installation
 Aside from built-ins, you can get all the required depencies by entering the line below:
