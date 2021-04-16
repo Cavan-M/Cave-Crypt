@@ -10,4 +10,4 @@ Aside from built-ins, you can get all the required depencies by entering the lin
     
 # Usage
 * Run CaveCrypt.pyw
-*  * tip: run as administrator to avoid permissions issues
+   * tip: run as administrator to avoid permissions issues
