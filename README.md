@@ -1,5 +1,5 @@
 # Cave-Crypt
-Text file encryption using Tkinter
+Lightweight text file encryption
 
 # Installation
 Aside from built-ins, you can get all the required depencies by entering the line below:
