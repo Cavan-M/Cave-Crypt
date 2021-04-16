@@ -6,3 +6,4 @@ PyYAML
 pycryptodome
 Tkinter
 
+aes.py derrived from https://github.com/Starstorm3/easy-aes
