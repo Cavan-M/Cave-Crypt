@@ -6,3 +6,8 @@ Aside from built-ins, you can get all the required depencies by entering the lin
 
 
     $ pip install pycryptodome
+    
+    
+# Usage
+Run CaveCrypt.pyw
+*tip: run as administrator to avoid permissions issues
